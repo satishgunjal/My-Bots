@@ -3,6 +3,7 @@
 2. Since there is no GUI in Bots it has to be conversation way of thinking instaed of graphical way of thinking
 3. build conversations based on trust. for e.g. if we asking customer to select product and customer says something Bot dont then instaed of saying 'Sorry, I dont understand, can you please repeat" Bot can say "I waslooking for product selection, can you please selet a product from below list"
 4. Bots that do one thing well are more helpfull than bots that do many things poorly
+5. being able to excalate to human is important but when do it is critical
 
 # My-Bots
 
