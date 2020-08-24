@@ -2,6 +2,7 @@
 1. In case of bots we dont have any GUI so it is very close to having a discussion with a real person. Instaed of button Bot have conversations in Bots. And every conversation is collection of stories. Which is good because himans are hardwired t think in stores or remember thionks in story format.
 2. Since there is no GUI in Bots it has to be conversation way of thinking instaed of graphical way of thinking
 3. build conversations based on trust. for e.g. if we asking customer to select product and customer says something Bot dont then instaed of saying 'Sorry, I dont understand, can you please repeat" Bot can say "I waslooking for product selection, can you please selet a product from below list"
+4. Bots that do one thing well are more helpfull than bots that do many things poorly
 
 # My-Bots
 
